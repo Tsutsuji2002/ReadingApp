@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "752969770405",
+    "project_id": "final-f7347",
+    "storage_bucket": "final-f7347.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752969770405:android:8a2ee792dcfa82c320344c",
+        "android_client_info": {
+          "package_name": "com.LNApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752969770405-d0g20muh3n87ja7agc13q3gbcdb1otgt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.LNApp",
+            "certificate_hash": "9669494217438e7827183b3855997b428fe79303"
+          }
+        },
+        {
+          "client_id": "752969770405-ub2br5hot898enn5k9sm1cabdtil4gsp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLNOoQIlb4ln7ZiG1eVlRmZGwferoVg-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752969770405-ub2br5hot898enn5k9sm1cabdtil4gsp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
